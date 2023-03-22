@@ -1,0 +1,5 @@
+The code prompts the user to enter an integer using the prompt() function, and then uses the parseInt() function to convert the user's input (which is initially a string) into an integer.
+The if statement checks whether the number is positive, using the > operator to compare it to zero. If the number is positive, the program prints a message saying so using the console.log() function.
+The else if statement checks whether the number is negative, using the < operator to compare it to zero. If the number is negative, the program prints a message saying so.
+The else statement is a catch-all that is executed if the number is not positive or negative. In this case, it assumes the number must be zero and prints a message indicating that.
+Overall, this program prompts the user to enter an integer, checks whether it is positive, negative, or zero, and prints a message indicating which one it is.

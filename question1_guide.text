@@ -1,0 +1,5 @@
+The code uses the parseInt() function to convert the user's input (which is initially a string) into an integer. It does this for each of the three numbers that the user is prompted to enter.
+
+The if statement checks whether the three numbers are in numeric order, using the <= operator to compare them. If the numbers are in order, the program prints a message saying so using the console.log() function. If the numbers are not in order, the program prints a different message.
+
+Overall, this program prompts the user to enter three numbers, checks whether they are in numeric order, and prints a message indicating whether they are or not.
